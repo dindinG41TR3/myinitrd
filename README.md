@@ -1,0 +1,2 @@
+# myinitrd
+Note Initial Ramdisk
